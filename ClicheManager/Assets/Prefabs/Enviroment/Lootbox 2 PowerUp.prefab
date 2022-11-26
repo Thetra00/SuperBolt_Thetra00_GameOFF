@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2666543896141513316
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 759376989346793581, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3041339089971483951, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: m_Name
+      value: Lootbox 2 PowerUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507298071880803891, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: Loot
+      value: 
+      objectReference: {fileID: 3965096020907135780, guid: 3992542bd88f2db479027e6fc6453b28, type: 3}
+    - target: {fileID: 5507298071880803891, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}
+      propertyPath: lootCount
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0781db721f0b1b4296e1cd3e556a811, type: 3}

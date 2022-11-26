@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Item
+  - Bullet
+  - Destroy
+  - BoxBlock
+  - OneWayPlatform
+  - Ground
+  - BossShell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - OneWayPlatform
+  - Player
+  - ItemPU
+  - Player_Bullets
+  - Enemy
+  - EnemyBullet
+  - WATER
+  - IceCube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Player-ONLY
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Paralax
+    uniqueID: 1734199987
+    locked: 0
+  - name: BG
+    uniqueID: 3656622495
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4150172009
+    locked: 0
+  - name: FG
+    uniqueID: 3921977147
+    locked: 0
